@@ -1,5 +1,18 @@
-Web App for Counting (first coding project in portfolio with JavaScript Implementation)
+# My Counting Web App
 
-Counting Web App Coding Project (alert only fires when you hit submit again for your goal)
+A simple counter app built with HTML, CSS, and JavaScript (jQuery).
 
-Link -> https://joshpower32.github.io/joshpower32-Counting-App-Project/
+## Features
+- Count up or down with + and - buttons
+- Set a custom goal
+- Confetti animation triggers automatically when you hit your goal
+- Clear button to reset the count
+
+## Built With
+- HTML
+- CSS
+- JavaScript (jQuery)
+
+## Live Demo Site
+https://joshpower32.github.io/joshpower32-Counting-App-Project/
+
